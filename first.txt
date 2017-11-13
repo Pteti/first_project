@@ -2,5 +2,5 @@ This is my first file on Git training.
 2nd line here
 change heeasdas
 de
-commits here and there
+commits here a problem comflict re yea
 content edited from server
