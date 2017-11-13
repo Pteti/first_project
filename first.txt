@@ -2,5 +2,7 @@ This is my first file on Git training.
 2nd line here
 change heeasdas
 de
-commits here a problem comflict re yea
+commits here a problem comflict
+dasdasdads
+re yea
 content edited from server
